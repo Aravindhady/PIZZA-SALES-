@@ -1,0 +1,3 @@
+SELECT * FROM pizza_sales ;
+
+SELECT ROUND(AVG(TOTAL_PRICE),2) AS "AVERAGE ORDER VALUE" FROM pizza_sales;

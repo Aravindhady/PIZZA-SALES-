@@ -1,0 +1,3 @@
+SELECT * FROM pizza_sales ;
+
+SELECT COUNT(QUANTITY) AS "TOTAL PIZZA SOLD" FROM pizza_sales;

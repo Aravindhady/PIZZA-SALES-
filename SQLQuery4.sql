@@ -1,0 +1,3 @@
+SELECT * FROM pizza_sales ;
+
+SELECT COUNT(DISTINCT(ORDER_ID)) AS "TOTAL ORDERS" FROM pizza_sales;
